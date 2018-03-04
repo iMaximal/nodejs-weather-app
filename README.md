@@ -12,7 +12,16 @@ npm install
 
 ## Usage
 
-Get coordinates:
+Get temperature:
 ````bash
 node app.js -a 'yekaterinburg'
+````
+or
+````bash
+node app-promise.js -a 'yekaterinburg'
+````
+
+Help:
+````bash
+node app.js -h
 ````
